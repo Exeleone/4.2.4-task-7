@@ -11,9 +11,9 @@
   <br/>
   <h2>Сервисы для работы<h2/>
 <br/>
-• <a href="https://https://miro.com/app/board/uXjVOEsnY5w=/">Miro<a/>
+   • <a href="https://miro.com/app/board/uXjVOEsnY5w=/?invite_link_id=5180773933">Miro<a/>
 <br/>
-• <a href="https://https://trello.com/b/vL3YQ8SZ">Trello<a/>
+• <a href="https://trello.com/b/vL3YQ8SZ/rating">Trello<a/>
 <br/>
    <h2>Документация<h2/>
 
