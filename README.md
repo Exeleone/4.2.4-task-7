@@ -8,7 +8,7 @@
 • <a href="https://github.com/maks0nn">Майорников Максим<a/>
 <br/>
   Тема:  учёт оценок студентов
-  <br/>
+ 
   <h2>Сервисы для работы<h2/>
 <br/>
    • <a href="https://miro.com/app/board/uXjVOEsnY5w=/?invite_link_id=5180773933">Miro<a/>
