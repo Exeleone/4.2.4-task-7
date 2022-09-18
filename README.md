@@ -5,7 +5,7 @@
 <br/>
  • <a href="https://github.com/MrokosPL">Лебедев Александр<a/> 
 <br/>
-• <a href="https://github.com/AnastasiaReznichenko">Резниченко Анастасия<a/>
+• <a href="https://github.com/maks0nn">Майорников Максим<a/>
 <br/>
   Тема:  учёт оценок студентов
   <br/>
