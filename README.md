@@ -7,6 +7,9 @@
 <br/>
 • <a href="https://github.com/maks0nn">Майорников Максим<a/>
 <br/>
+• <a href="https://github.com/saveliyCSF">Черенков Савелий<a/>
+<br/>
+
   Тема:  учёт оценок студентов
  
   <h2>Сервисы для работы<h2/>
