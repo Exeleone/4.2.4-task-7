@@ -9,6 +9,9 @@
 <br/>
 • <a href="https://github.com/saveliyCSF">Черенков Савелий<a/>
 <br/>
+ <br/>
+• <a href="https://github.com/Parovozikkk">Шевцов Владимир<a/>
+<br/>
 
   Тема:  учёт оценок студентов
  
