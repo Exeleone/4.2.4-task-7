@@ -1,0 +1,8 @@
+{
+   "mysql": {
+        "db_host": "localhost",
+        "db_user": "a0553359_atao_database",
+        "db_password": "AtAo123",
+        "db_name": "a0553359_atao_database"
+    }
+}
