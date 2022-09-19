@@ -7,12 +7,15 @@
 * А так же сдержанный и приятный дизайн сайта для глаз
  ## Разработчики:
 
-• <a href="https://github.com/Exeleone">Головин Вадим <a/>
+•<a href="https://github.com/Exeleone">Головин Вадим <a/>
  
-• <a href="https://github.com/MrokosPL">Лебедев Александр<a/> 
-• <a href="https://github.com/maks0nn">Майорников Максим<a/>
-• <a href="https://github.com/saveliyCSF">Черенков Савелий<a/>
-• <a href="https://github.com/Parovozikkk">Шевцов Владимир<a/>
+•<a href="https://github.com/MrokosPL">Лебедев Александр<a/> 
+ 
+•<a href="https://github.com/maks0nn">Майорников Максим<a/>
+
+•<a href="https://github.com/saveliyCSF">Черенков Савелий<a/>
+
+•<a href="https://github.com/Parovozikkk">Шевцов Владимир<a/>
 
 
   Тема:  учёт оценок студентов
