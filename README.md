@@ -18,7 +18,6 @@
 •<a href="https://github.com/Parovozikkk">Шевцов Владимир<a/>
 
 
-  Тема:  учёт оценок студентов
  
 ## Сервисы для работы
    • <a href="https://miro.com/app/board/uXjVOEsnY5w=/?invite_link_id=5180773933">Miro<a/>
