@@ -25,4 +25,4 @@
 
 • <a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Техническое задание<a/>
 
-• <a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Kursovoy_proekt.docx">Курсовой проект<a/>
+• <a href="">Курсовой проект<a/>
