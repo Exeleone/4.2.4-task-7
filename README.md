@@ -13,8 +13,6 @@
  
 •<a href="https://github.com/maks0nn">Майорников Максим<a/>
 
-•<a href="https://github.com/saveliyCSF">Черенков Савелий<a/>
-
 •<a href="https://github.com/Parovozikkk">Шевцов Владимир<a/>
 
 
