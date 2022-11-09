@@ -28,3 +28,9 @@
 • <a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Kursovoy_proekt.docx">Курсовой проект<a/>
 
 •<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Презентация<a/>
+
+•<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Видео демонстрация<a/>
+
+•<a href="https://metrika.yandex.ru/list?">Метрики<a/>
+
+•<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">____--____<a/>
