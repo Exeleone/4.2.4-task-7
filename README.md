@@ -16,11 +16,6 @@
 •<a href="https://github.com/Parovozikkk">Шевцов Владимир<a/>
 
 
- 
-## Сервисы для работы
-   • <a href="https://miro.com/app/board/uXjVOEsnY5w=/?invite_link_id=5180773933">Miro<a/>
-• <a href="https://trello.com/b/vL3YQ8SZ/rating">Trello<a/>
-
 ## Ссылки на документацию
  
 •<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Проект<a/>
@@ -38,3 +33,7 @@
 •<a href="https://metrika.yandex.ru/list?">Метрики<a/>
 
 •<a href="https://app.swaggerhub.com/apis/MAKC20161/reg/1.0.0#/auth/register">swagger<a/>
+
+• <a href="https://miro.com/app/board/uXjVOEsnY5w=/?invite_link_id=5180773933">Miro<a/>
+ 
+• <a href="https://trello.com/b/vL3YQ8SZ/rating">Trello<a/>
