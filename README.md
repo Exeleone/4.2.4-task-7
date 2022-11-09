@@ -18,7 +18,7 @@
 
 ## Ссылки на документацию
  
-•<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Проект<a/>
+•<a href="a0740114.xsph.ru">Проект<a/>
 
 •<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Техническое задание<a/>
 
