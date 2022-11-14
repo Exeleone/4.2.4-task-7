@@ -35,7 +35,7 @@
  
 •<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Видео по презентации проекта<a/>
 
-•<a href="https://metrika.yandex.ru/list?">Метрики<a/>
+•<a href="https://metrika.yandex.ru/dashboard?id=91106360">Метрики<a/>
 
 •<a href="https://app.swaggerhub.com/apis/MAKC20161/reg/1.0.0#/auth/register">swagger<a/>
 
