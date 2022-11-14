@@ -32,9 +32,8 @@
 •<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Презентация<a/>
 
 •<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Видео демонстрация сайта<a/>
+ •<a href="https://www.youtube.com/watch?v=I-jmqBuH-Yo&ab_channel=%D0%92%D0%B0%D0%B4%D0%B8%D0%BC%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD">Видео по презентации проекта<a/>
  
-•<a href="https://github.com/Exeleone/4.2.4-task-7/blob/main/Техническое%20задание.docx">Видео по презентации проекта<a/>
-
 •<a href="https://metrika.yandex.ru/dashboard?id=91106360">Метрики<a/>
 
 •<a href="https://app.swaggerhub.com/apis/MAKC20161/reg/1.0.0#/auth/register">swagger<a/>
