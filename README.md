@@ -32,7 +32,9 @@
 •<a href="https://disk.yandex.ru/edit/disk/disk%2F%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pptx?sk=yc4f296458cff971e24fd31025106f451">Презентация<a/>
 
 •<a href="https://www.youtube.com/watch?v=d_oTl5djfLA&ab_channel=%D0%92%D0%B0%D0%B4%D0%B8%D0%BC%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD">Видео демонстрация сайта<a/> 
+
  •<a href="https://www.youtube.com/watch?v=I-jmqBuH-Yo&ab_channel=%D0%92%D0%B0%D0%B4%D0%B8%D0%BC%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD">Видео по презентации проекта<a/>
+ 
  
  
 •<a href="https://metrika.yandex.ru/dashboard?id=91106360">Метрики<a/>
