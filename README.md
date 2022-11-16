@@ -39,7 +39,7 @@
  
 •<a href="https://metrika.yandex.ru/dashboard?id=91106360">Метрики<a/>
 
-•<a href="https://app.swaggerhub.com/apis/MAKC20161/reg/1.0.0#/auth/register">swagger<a/>
+•<a href="https://app.swaggerhub.com/apis/MAKC20161/ATAO/1.0.0#/">swagger<a/>
 
 • <a href="https://miro.com/app/board/uXjVOEsnY5w=/?invite_link_id=5180773933">Miro<a/>
  
